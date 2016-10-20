@@ -18,3 +18,23 @@ c:\users\shubham\documents\visual studio 2015\Projects\Mediplus\Mediplus\obj\Deb
 c:\users\shubham\documents\visual studio 2015\Projects\Mediplus\Mediplus\obj\Debug\injectionVulnerable.baml
 c:\users\shubham\documents\visual studio 2015\Projects\Mediplus\Mediplus\obj\Debug\opening.g.cs
 c:\users\shubham\documents\visual studio 2015\Projects\Mediplus\Mediplus\obj\Debug\opening.baml
+G:\My-Projects\Mediplus\Mediplus\bin\Debug\Mediplus.exe.config
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus.exe
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus.pdb
+G:\My-Projects\Mediplus\Mediplus\bin\Debug\Mediplus.exe
+G:\My-Projects\Mediplus\Mediplus\bin\Debug\Mediplus.pdb
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus.csprojResolveAssemblyReference.cache
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\injectionProtected.g.cs
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\injectionVulnerable.g.cs
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\MainWindow.g.cs
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\opening.g.cs
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\App.g.cs
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus_MarkupCompile.cache
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus_MarkupCompile.lref
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\injectionProtected.baml
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\injectionVulnerable.baml
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\MainWindow.baml
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\opening.baml
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus.g.resources
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus.Properties.Resources.resources
+G:\My-Projects\Mediplus\Mediplus\obj\Debug\Mediplus.csproj.GenerateResource.Cache

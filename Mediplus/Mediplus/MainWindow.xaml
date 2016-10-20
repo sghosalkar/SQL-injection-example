@@ -5,14 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mediplus"
         mc:Ignorable="d"
-        Title="MainWindow" Height="420" Width="640">
+        Title="Mediplus" Height="420" Width="640">
     
     <Grid>
         <Viewbox>
             <Grid x:Name="mainContent" 
                   Height="400" 
                   Width="640">
-                
             </Grid>
         </Viewbox>
     </Grid>
